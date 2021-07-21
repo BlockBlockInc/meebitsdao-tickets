@@ -6,6 +6,8 @@ The MeebitsDAO Ticket Token is an ERC-721, implementing OpenZepplin [ERC721Burna
 
 Contract address on Polygon: [0xB3E7DF09eB3F0a5E2150c75Bd71F583fC83EE193](https://polygonscan.com/address/0xb3e7df09eb3f0a5e2150c75bd71f583fc83ee193)
 
+<img src="https://ipfs.io/ipfs/QmYNAkKi4AhiFeknPrnUPxAJTrZ3KgfjF2QHDpjq7DHxfH" width="300" height="300">
+
 ## Setup 
 
 Install: 
