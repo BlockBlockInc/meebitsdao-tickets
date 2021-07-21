@@ -1,4 +1,4 @@
-# meebitsdao-achievement-tokens
+# meebitsdao-tickets
 
 ## Design
 
